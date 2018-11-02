@@ -24,7 +24,13 @@ Awesome OSINT stuff
 - [TWINT - Twitter Intelligence Tool](https://github.com/twintproject/twint)
 - [Scumblr - automated framework to easily and quickly identify security-based issues](https://github.com/Netflix-Skunkworks/Scumblr)
 - [reaper - Social media scraping](https://github.com/scriptsmith/reaper)
-- [/intrigue-core- Discover your attack surface! ](https://github.com/intrigueio/intrigue-core)
+- [intrigue-core- Discover your attack surface! ](https://github.com/intrigueio/intrigue-core)
+- [geolocatethis - Advanced Google Maps queries](https://github.com/musafir-py/geolocatethis)
+- [Ghiro - image forensics](https://github.com/ghirensics)
+- [github-osint](https://github.com/vulnbe/github-osint)
+
+
+
 
 
 

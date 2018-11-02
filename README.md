@@ -1,2 +1,5 @@
 # AwsomeOSINT
-Here i shared tool and site releted to OSINT
+Awesome OSINT stuff 
+
+# Awesome Extensions
+Email Extractor - extract email addresses from any web page you visit.

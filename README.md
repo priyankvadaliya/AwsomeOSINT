@@ -21,6 +21,13 @@ Awesome OSINT stuff
 - [Pulsedive](https://pulsedive.com/)
 - [webbreacher](https://webbreacher.com/category/osint/)
 - [bellingcat](https://www.bellingcat.com/)
+- [Youtube Geo Search Tool](http://youtube.github.io/geo-search-tool/search.html)
+- [findpdfdoc](http://www.findpdfdoc.com/)
+- [OSINT Stash](http://workinukraine.space/)
+- [newspapermap](https://newspapermap.com/)
+    ### Social
+    - [GramSpy](http://gramspy.com/)
+    - [Buzzweb](https://buzzweb.pro/)
 
 ### Awesome Tools
 - [Goohak - Automatically Launch Google Hacking Queries Against A Target Domain](https://github.com/1N3/Goohak)
@@ -35,6 +42,10 @@ Awesome OSINT stuff
 - [OSINT-Browser-Plugins](https://github.com/IVMachiavelli/OSINT-Browser-Plugins)
 - [DMI Tools](https://wiki.digitalmethods.net/Dmi/ToolDatabase)
 - [EagleEye - Finding Social Media Profiles via Images](https://github.com/ThoughtfulDev/EagleEye)
+- [searched for historical information](https://github.com/si9int/cc.py)
+- [swap Twitter accounts](https://github.com/snovvcrash/tweetlord)
+- [linkedin2username](https://github.com/initstring/linkedin2username)
+
 
 ### Awesome Reads 
 - [Open Source Intelligence Tools and Resources Handbook](https://t.co/K9APKzaqkj)

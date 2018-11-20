@@ -25,9 +25,13 @@ Awesome OSINT stuff
 - [findpdfdoc](http://www.findpdfdoc.com/)
 - [OSINT Stash](http://workinukraine.space/)
 - [newspapermap](https://newspapermap.com/)
+- [Amazon Wishlists](https://www.amazon.com/gp/registry/search/)
+
     ### Social
     - [GramSpy](http://gramspy.com/)
     - [Buzzweb](https://buzzweb.pro/)
+    - [followerwonk](https://followerwonk.com/pro)
+    - [snapchat Map](https://map.snapchat.com)
 
 ### Awesome Tools
 - [Goohak - Automatically Launch Google Hacking Queries Against A Target Domain](https://github.com/1N3/Goohak)

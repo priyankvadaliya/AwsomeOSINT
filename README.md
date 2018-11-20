@@ -32,6 +32,9 @@ Awesome OSINT stuff
     - [Buzzweb](https://buzzweb.pro/)
     - [followerwonk](https://followerwonk.com/pro)
     - [snapchat Map](https://map.snapchat.com)
+    
+    ### Darkweb
+    - [Dark Web Investigation Tools](https://iaca-darkweb-tools.com/)
 
 ### Awesome Tools
 - [Goohak - Automatically Launch Google Hacking Queries Against A Target Domain](https://github.com/1N3/Goohak)

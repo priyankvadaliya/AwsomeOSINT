@@ -59,7 +59,7 @@ Awesome OSINT stuff
 - [linkedin2username](https://github.com/initstring/linkedin2username)
 - [TOR Hidden Service Crawler](https://github.com/thelematic/poopak)
 
-    ###Resourse Portal
+    ### Resourse Portal
     - [Resource Portal](http://osint.link/)
 
 

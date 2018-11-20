@@ -4,11 +4,14 @@ Awesome OSINT stuff
 ### Awesome Extensions
 - [Email Extractor - extract email addresses from any web page you visit.](https://chrome.google.com/webstore/detail/email-extractor/naidmjmjlgpkbebchjabfjgcgjkgojbi?authuser=3)
 - [Intelligence Search](https://chrome.google.com/webstore/detail/intelligence-search/dipfggodcibdmflidbceoaanadclgomm)
+- [OSINT friendly IOC (Indicator of Compromise) saerch tool](https://chrome.google.com/webstore/detail/mitaka/bfjbejmeoibbdpfdbmbacmefcbannnbg)
 
 ### Awesome People
 - [Benjamin Strick](https://twitter.com/BenDoBrown)
 - [Sector035](https://twitter.com/Sector035)
 - [Dutch OsintGuy](https://twitter.com/dutch_osintguy)
+- [OSINT.Link](https://twitter.com/onlineosint)
+- [Stefanie Proto](https://twitter.com/sprp77)
 
 ### Awesome websites
 - [GPSies - track search](https://www.gpsies.com/trackList.do)
@@ -26,6 +29,8 @@ Awesome OSINT stuff
 - [OSINT Stash](http://workinukraine.space/)
 - [newspapermap](https://newspapermap.com/)
 - [Amazon Wishlists](https://www.amazon.com/gp/registry/search/)
+- [what happened on the internet every minute](http://www.visualcapitalist.com/)
+- [Open Threat Intelligence](https://cymon.io/)
 
     ### Social
     - [GramSpy](http://gramspy.com/)
@@ -40,7 +45,7 @@ Awesome OSINT stuff
 - [Goohak - Automatically Launch Google Hacking Queries Against A Target Domain](https://github.com/1N3/Goohak)
 - [TWINT - Twitter Intelligence Tool](https://github.com/twintproject/twint)
 - [Scumblr - automated framework to easily and quickly identify security-based issues](https://github.com/Netflix-Skunkworks/Scumblr)
-- [reaper - Social media scraping](https://github.com/scriptsmith/reaper)
+- [reaper - Social media scraping](https://github.com/scriptsmithttp://osint.link/h/reaper)
 - [intrigue-core- Discover your attack surface! ](https://github.com/intrigueio/intrigue-core)
 - [geolocatethis - Advanced Google Maps queries](https://github.com/musafir-py/geolocatethis)
 - [Ghiro - image forensics](https://github.com/ghirensics)
@@ -52,6 +57,10 @@ Awesome OSINT stuff
 - [searched for historical information](https://github.com/si9int/cc.py)
 - [swap Twitter accounts](https://github.com/snovvcrash/tweetlord)
 - [linkedin2username](https://github.com/initstring/linkedin2username)
+- [TOR Hidden Service Crawler](https://github.com/thelematic/poopak)
+
+    ###Resourse Portal
+    - [Resource Portal](http://osint.link/)
 
 
 ### Awesome Reads 

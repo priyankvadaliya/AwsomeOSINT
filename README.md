@@ -31,6 +31,9 @@ Awesome OSINT stuff
 - [Amazon Wishlists](https://www.amazon.com/gp/registry/search/)
 - [what happened on the internet every minute](http://www.visualcapitalist.com/)
 - [Open Threat Intelligence](https://cymon.io/)
+- [haveibeenpwned](https://haveibeenpwned.com/)
+- [reverse lookup](https://www.yougetsignal.com/)
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
     ### Social
     - [GramSpy](http://gramspy.com/)
@@ -58,6 +61,7 @@ Awesome OSINT stuff
 - [swap Twitter accounts](https://github.com/snovvcrash/tweetlord)
 - [linkedin2username](https://github.com/initstring/linkedin2username)
 - [TOR Hidden Service Crawler](https://github.com/thelematic/poopak)
+- [Darknet Osint Graph Explorer](https://github.com/pielco11/DOGE)
 
     ### Resourse Portal
     - [Resource Portal](http://osint.link/)
@@ -65,6 +69,11 @@ Awesome OSINT stuff
 
 ### Awesome Reads 
 - [Open Source Intelligence Tools and Resources Handbook](https://t.co/K9APKzaqkj)
+- [Satellite Imagery Resources](https://t.co/CtuUMsv25d)
+- [Deep Web Resources 2018](https://t.co/kEHkOUjnAj)
+
+### Podcast
+-[osintpodcast](http://osintpodcast.com/)
 
 
 

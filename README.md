@@ -14,6 +14,8 @@ Awesome OSINT stuff
 - [Stefanie Proto](https://twitter.com/sprp77)
 
 ### Awesome websites
+- [Telegram Search Engine](https://bit.ly/Telegago)
+- [Finding Retweets](https://twren.ch/)
 - [GPSies - track search](https://www.gpsies.com/trackList.do)
 - [Boolean Strings](https://booleanstrings.com/)
 - [Jake Creps](https://jakecreps.com/)

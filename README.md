@@ -14,6 +14,8 @@ Awesome OSINT stuff
 - [Stefanie Proto](https://twitter.com/sprp77)
 
 ### Awesome websites
+- [Malware Traffic Analysis](http://www.malware-traffic-analysis.net/index.html)
+- [Internet-wide search engine for digital certificates](https://certdb.com/)
 - [Telegram Search Engine](https://bit.ly/Telegago)
 - [Finding Retweets](https://twren.ch/)
 - [GPSies - track search](https://www.gpsies.com/trackList.do)
@@ -47,6 +49,8 @@ Awesome OSINT stuff
     - [Dark Web Investigation Tools](https://iaca-darkweb-tools.com/)
 
 ### Awesome Tools
+- [scrape PasteBin pastes](https://github.com/d-Rickyy-b/pastepwn)
+- [ct-exposer](https://github.com/chris408/ct-exposer)
 - [Goohak - Automatically Launch Google Hacking Queries Against A Target Domain](https://github.com/1N3/Goohak)
 - [TWINT - Twitter Intelligence Tool](https://github.com/twintproject/twint)
 - [Scumblr - automated framework to easily and quickly identify security-based issues](https://github.com/Netflix-Skunkworks/Scumblr)
